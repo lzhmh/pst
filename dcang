@@ -1,0 +1,16 @@
+//240424
+{"storeHouse":
+[
+{"sourceName":"问道仓hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pst/main/zbk" }, 
+{"sourceName":"欧歌主仓","sourceUrl":"http://o.nxog.top/nxog/ou1.php?url=http://o.nxog.top&xl=1&b=欧歌"},
+{"sourceName":"欧歌备1仓","sourceUrl":"https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
+{"sourceName":"欧歌备2仓","sourceUrl":"https://nxog.eu.org/nxog/ou1.php?url=https://nxog.eu.org&xl=2&b=欧歌"},
+{"sourceName":"gaotianliuyun仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+{"sourceName":"优质","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
+{"sourceName":"CR","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
+{"sourceName":"影视仓库","sourceUrl":"https://agit.ai/a492890454/TVbox/raw/branch/master/tvbox1/1"},
+{"sourceName":"tjyu仓","sourceUrl":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/CR%e6%96%87%e4%bb%b6/%e4%bb%93%e5%ba%93" }, 
+{"sourceName":"超级仓库单仓","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }
+
+] 
+}
