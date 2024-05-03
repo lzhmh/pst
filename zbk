@@ -1,4 +1,4 @@
-//240424
+//240503
 //https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33
 //https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php
 {
@@ -7,11 +7,12 @@
         {"url":"https://agit.ai/lzhmh/pd/raw/branch/master/30","name":"②豫移线git3"},
         {"url":"http://gg.gg/14s6aq","name":"③国移线tee3"},
         {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"④粤移线git1"},
-        {"url":"clan://localhost/1tv/00","name":"⑤本地线clan"},
+        {"url":"https://pastebin.com/raw/t55EkYEg","name":"⑤豫移线past"},
         {"url":"http://gg.gg/notamob","name":"⑥豫移线not3"},
         {"url":"http://gg.gg/gituni","name":"⑦粤联线git2"},
         {"url":"http://gg.gg/teeuni","name":"⑧国联线tee2"},
         {"url":"http://gg.gg/notauni","name":"⑨豫联线not2"},
+        {"url":"clan://localhost/1tv/00","name":"本地线clan"},
         {"url":"http://gg.gg/gitkid","name":"教育知识"},
         {"url":"https://agit.ai/lzhmh/cs/raw/branch/master/11","name":"🍭测试线"},
         
