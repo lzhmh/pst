@@ -1,4 +1,4 @@
-//240426
+//240517
 {"storeHouse":
 [
 {"sourceName":"问道库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pst/main/zbk" },
@@ -9,8 +9,10 @@
 {"sourceName":"gaotianly库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
 {"sourceName":"优质库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/hd9211/Tvbox1/main/优质.json"},
 {"sourceName":"CR库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/hd9211/Tvbox1/main/cr.json"},
+{"sourceName":"chendi库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt"},
 {"sourceName":"影视库git","sourceUrl":"https://agit.ai/a492890454/TVbox/raw/branch/master/tvbox1/1"},
 {"sourceName":"tjyu库git","sourceUrl":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/CR%e6%96%87%e4%bb%b6/%e4%bb%93%e5%ba%93" }, 
 {"sourceName":"超级库git","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }
+
 ] 
 }
