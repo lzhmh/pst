@@ -1,15 +1,15 @@
-//240511
+//240901
 //韩国https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33
 //香港https://raw.github.com//https://raw.github.com/lzhmh/pd/main/33mob.php
 {
 "urls": [
         {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30","name":"①豫移线h001"},
-        {"url":"https://agit.ai/lzhmh/pd/raw/branch/master/30","name":"②豫移线git3"},
+        {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"②粤联线hub2"},
         {"url":"http://gg.gg/14s6aq","name":"③国移线tee3"},
         {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"④粤移线git1"},
         {"url":"https://pastebin.com/raw/t55EkYEg","name":"⑤豫移线past"},
         {"url":"http://gg.gg/notamob","name":"⑥豫移线not3"},
-        {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"⑦粤联线hub2"},
+        {"url":"https://agit.ai/lzhmh/pd/raw/branch/master/30","name":"⑦豫移线git3"},
         {"url":"http://gg.gg/teeuni","name":"⑧国联线tee2"},
         {"url":"http://gg.gg/notauni","name":"⑨豫联线not2"},
         {"url":"clan://localhost/1tv/00","name":"本地线clan"},
