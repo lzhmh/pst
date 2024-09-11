@@ -5,7 +5,6 @@
 {"sourceName":"欧歌主库","sourceUrl":"http://o.nxog.top/nxog/ou1.php?url=http://o.nxog.top&xl=1&b=欧歌"},
 {"sourceName":"欧歌备1库","sourceUrl":"https://o.nxog.top/nxog/ou1.php?url=https://o.nxog.top&xl=2&b=欧歌"},
 {"sourceName":"欧歌备2库","sourceUrl":"https://nxog.eu.org/nxog/ou1.php?url=https://nxog.eu.org&xl=2&b=欧歌"},
-{"sourceName":"拾光畅谈","sourceUrl":"https://gh.con.sh/https://raw.github.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"Govin库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/Guovin/TV/master/source.json"},
 {"sourceName":"gaotianly库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
 {"sourceName":"优质库hub","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/hd9211/Tvbox1/main/优质.json"},
@@ -19,7 +18,7 @@
 {"sourceName":"小盒子","sourceUrl":"http://xhztv.top/tvbox.txt" }, 
 {"sourceName":"小盒子（备）","sourceUrl":"http://xhztv.top/DC.txt" },
 {"sourceName":"小盒子备","sourceUrl":"http://xhztv.top/dc/" },
-{"sourceName":"宝盒视界","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/dc2.json" },
+{"sourceName":"宝盒视界","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/guot55/yg/main/dc2.json" },
 {"sourceName":"西夏影视","sourceUrl":"https://d.kstore.space/download/2912/xx888.json"},
 {"sourceName":"七星仓","sourceUrl":"https://qixing.myhkw.com/DC.txt" }, 
 {"sourceName":"无邪优选仓","sourceUrl":"https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master" },
@@ -27,8 +26,8 @@
 {"sourceName":"飞哥传奇","sourceUrl":"https://chuanshuo.77blog.cn/dc.json" },
 {"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/FLCK.json"},
 {"sourceName":"恒星多仓","sourceUrl":"http://恒星.net/ZC.json" }, 
-{"sourceName":"业余打发","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json" },
-{"sourceName":"爱TV吧","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/daku.txt" },
-{"sourceName":"番茄库吧","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json" }
+{"sourceName":"业余打发","sourceUrl":"https://ghproxy.net/https://raw.github.com/yyfxz/qqtv/main/qq.json" },
+{"sourceName":"爱TV吧","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/txtvv/txtv/main/daku.txt" },
+{"sourceName":"番茄库吧","sourceUrl":"https://mirror.ghproxy.com/https://raw.github.com/txtvv/txtv/main/tvbox/cang.json" }
 ] 
 }
