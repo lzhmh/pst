@@ -1,16 +1,16 @@
-//240930
+//241011
 //韩国https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33
 //香港https://raw.github.com//https://raw.github.com/lzhmh/pd/main/33mob.php
 {
 "urls": [
        {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30","name":"①豫移hub1"},
        {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/uniwb/main/uniwb","name":"②粤联hub2"},
-       {"url":"http://gg.gg/14s6aq","name":"③国移tee3"},
+       {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"③国移tee3"},
      //       {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"④粤移git1"},
        {"url":"https://pastebin.com/raw/t55EkYEg","name":"⑤豫移past"},
        {"url":"http://gg.gg/notamob","name":"⑥豫移not3"},
      //       {"url":"https://agit.ai/lzhmh/pd/raw/branch/master/30","name":"⑦豫移git3"},
-       {"url":"http://gg.gg/teeuni","name":"⑧国联tee2"},
+       {"url":"https://gitee.com/hnkfmh/Unitee/raw/master/22","name":"⑧国联tee2"},
        {"url":"http://gg.gg/notauni","name":"⑨豫联not2"},
        {"url":"clan://localhost/1tv/00","name":"本地clan"},
        {"url":"http://gg.gg/gitkid","name":"教育知识"},
