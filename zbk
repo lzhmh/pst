@@ -3,8 +3,8 @@
 //香港https://raw.github.com//https://raw.github.com/lzhmh/pd/main/33mob.php
 {
 "urls": [
-       {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
-       {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/uniwb/main/uniwb","name":"②☎联信H2"},
+       {"url":"https://ghp.ci/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
+       {"url":"https://ghp.ci/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb.txt","name":"②☎联信H2"},
        {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"③🇨🇳移T3"},
      //       {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"④📶粤移G1"},
        {"url":"https://pastebin.com/raw/t55EkYEg","name":"⑤📱豫移P"},
@@ -69,7 +69,7 @@
        {"url":"https://gh-proxy.com/https://raw.github.com/yydfys/yydf/main/yydf/yydfjk.json","name":"💜业余打发"},
        {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"💜短剧大全"}, 
 
-       {"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33","name":"📱问道H3"}, 
+       {"url":"https://ghp.ci/https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"📱问道H3"}, 
        //       {"url":"http://gg.gg/hnkfpd3","name":"📱问道G3"},      
        {"url":"http://www.wya6.cn/tv/yc.json","name":"🚀无意云"}, 
        {"url":"http://饭太硬.top/tv","name":"🚀饭硬专线"},
