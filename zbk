@@ -2,9 +2,11 @@
 {
 "urls": [
 
-       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
+       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/30","name":"①📱豫移H1"},
+      // {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
        {"url":"https://notabug.org/lzhmh/notaMob/raw/master/77","name":"②📱豫移N2"},
-       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信H3"},
+       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/uniwb@main/uniwb","name":"③☎联信H3"},
+      // {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信H3"},
        {"url":"https://notabug.org/lzhmh/notaUni/raw/master/66","name":"④☎联信N3"},
        {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"④🇨🇳移T3"},
      //       {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"📶粤移G1"},
@@ -26,7 +28,7 @@
        {"url":"https://szyyds.cn/tv/x.json","name":"🚀小马线路"},
        {"url":"https://raw.kkgithub.com/ifkid/Free-TVUrl/main/out/tvbox.txt","name":"⚜️ifkid_Free-TVUrl"},
        {"url":"https://raw.kkgithub.com/T00700/TVBoxSE/master/FongMi.json","name":"⚜️FongMi"},
-       {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"📱问道H3"}, 
+       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/33","name":"📱问道H3"}, 
        {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"📱问道h3"}, 
        //       {"url":"http://gg.gg/hnkfpd3","name":"📱问道G3"},   
        {"url":"https://gitee.com/tv888/tv/raw/master/svip.json","name":"💜天微影视VIP线"},
