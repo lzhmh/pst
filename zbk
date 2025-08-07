@@ -2,9 +2,11 @@
 {
 "urls": [
 
-       {"url":"https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
+       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
+       {"url":"https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移h1"},
        {"url":"https://notabug.org/lzhmh/notaMob/raw/master/77","name":"②📱豫移N2"},
-       {"url":"https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信H3"},
+       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信H3"},
+       {"url":"https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信h3"},
        {"url":"https://notabug.org/lzhmh/notaUni/raw/master/66","name":"④☎联信N3"},
        {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"④🇨🇳移T3"},
        {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/30","name":"①📱豫移JH1"},
