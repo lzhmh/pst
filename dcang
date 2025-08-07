@@ -1,7 +1,8 @@
 //250305
 {"storeHouse":
 [
-//{"sourceName":"🚊问道H库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pst/main/zbk" },
+{"sourceName":"🚊问道H库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pst/main/zbk" },
+{"sourceName":"🚊问道h库","sourceUrl":"https://raw.githubusercontent.com/lzhmh/pst/main/zbk" },
 {"sourceName":"🚊问道JH库","sourceUrl":"https://cdn.jsdelivr.net/gh/lzhmh/pst@main/zbk" },
 {"sourceName":"欧歌主库","sourceUrl":"http://o.nxog.top/nxog/ou1.php?url=http://o.nxog.top&xl=1&b=欧歌"},
 {"sourceName":"Govin库","sourceUrl":"https://raw.kkgithub.com/Guovin/TV/master/source.json"},
