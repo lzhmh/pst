@@ -1,23 +1,20 @@
-//250423
+//260329
 {
-"urls": [
-
-       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H1"},
-       {"url":"https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移h1"},
-       {"url":"https://notabug.org/lzhmh/notaMob/raw/master/77","name":"②📱豫移N2"},
-       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信H3"},
-       {"url":"https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"③☎联信h3"},
-       {"url":"https://notabug.org/lzhmh/notaUni/raw/master/66","name":"④☎联信N3"},
-       {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"④🇨🇳移T3"},
-       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/30","name":"①📱豫移JH1"},
-       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/uniwb@main/uniwb","name":"③☎联信JH3"},
-     //       {"url":"https://agit.ai/lzhmh/gitmu/raw/branch/master/10","name":"📶粤移G1"},
+"urls": [        
+	   
+       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"①📱豫移H"},
+       {"url":"https://raw.githubusercontent.com/lzhmh/pd/main/30","name":"②📱豫移h"},
+	   {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/30","name":"③📱豫移J"},       {"url":"https://notabug.org/lzhmh/notaMob/raw/master/77","name":"④📱豫移N"},
        {"url":"https://pastebin.com/raw/t55EkYEg","name":"⑤📱豫移P"},
-     //       {"url":"https://agit.ai/lzhmh/pd/raw/branch/master/30","name":"📱豫移G3"},
-       {"url":"https://gitee.com/hnkfmh/Unitee/raw/master/22","name":"⑥🇨🇳联T2"},
-       {"url":"http://gg.gg/notauni","name":"⑦📞联信N2"},
-       {"url":"http://gg.gg/gitkid","name":"⑧教育知识"},
+	   {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"①☎联信H"},
+       {"url":"https://raw.githubusercontent.com/lzhmh/uniwb/main/uniwb","name":"②☎联信h"},
+       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/uniwb@main/uniwb","name":"③☎联信J"}, 
+       {"url":"https://notabug.org/lzhmh/notaUni/raw/master/66","name":"④☎联信N"},
+	   
+       {"url":"http://gg.gg/gitkid","name":"⑤教育知识"},
        {"url":"https://gitee.com/hnkfmh/cs/raw/master/22","name":"⑨🍭测试"},
+       {"url":"https://gitee.com/hnkfmh/Mobtee/raw/master/33","name":"Ⓜ️豫移T"},
+       {"url":"https://gitee.com/hnkfmh/Unitee/raw/master/22","name":"Ⓤ联信T"},
 
  //-------🌈🌈🌈🌈🌈🌈🌈🌈①②③④⑤⑥⑦⑧⑨🌈🌈🌈🌈📽️🌈🌈🌈🌈🌈🏃🌈💻🌈🌈🌈🌈🌈🌈🌈---❤️ 🏃❤️ 💜  
 
@@ -30,9 +27,9 @@
        {"url":"https://szyyds.cn/tv/x.json","name":"🚀小马线路"},
        {"url":"https://raw.kkgithub.com/ifkid/Free-TVUrl/main/out/tvbox.txt","name":"⚜️ifkid_Free-TVUrl"},
        {"url":"https://raw.kkgithub.com/T00700/TVBoxSE/master/FongMi.json","name":"⚜️FongMi"},
-       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/33","name":"📱问道JH3"}, 
-       {"url":"https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"📱问道H3"}, 
-       //       {"url":"http://gg.gg/hnkfpd3","name":"📱问道G3"},   
+       {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"📱豫移H"},
+       {"url":"https://cdn.jsdelivr.net/gh/lzhmh/pd@main/33","name":"📱豫移J"},  {"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/uniwb/main/uni","name":"☎联信H"},
+       {"url":"https://raw.githubusercontent.com/lzhmh/uniwb/main/uni","name":"☎联信h"},  
        {"url":"https://gitee.com/tv888/tv/raw/master/svip.json","name":"💜天微影视VIP线"},
        {"url":"https://gitee.com/tv888/fl/raw/master/svip.json","name":"💜飞龙影视"},
        {"url":"https://gitlab.com/tvtg/qx/-/raw/main/svip.json","name":"💜七星精选"},
